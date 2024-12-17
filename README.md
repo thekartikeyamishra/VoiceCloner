@@ -44,7 +44,6 @@ VoiceCloner/
 │   ├── language_support.py       # Provides support for multiple languages
 ├── main.py                       # Entry point to run the project
 ├── requirements.txt              # Project dependencies
-├── LICENSE                       # License information
 └── README.md                     # Detailed documentation (this file)
 ```
 
