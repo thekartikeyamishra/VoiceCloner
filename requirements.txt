@@ -1,0 +1,8 @@
+torch
+numpy
+librosa
+torchaudio
+indic-transliteration
+nvidia-pyindex
+nvidia-tacotron2
+nvidia-waveglow
